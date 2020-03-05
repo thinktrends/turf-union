@@ -33,7 +33,7 @@
     "benchmark": "*",
     "glob": "*",
     "load-json-file": "*",
-    "typescript": "*",
+    "typescript": "^1.5.3",
     "tape": "*",
     "write-json-file": "*",
     "@turf/combine": "*",
